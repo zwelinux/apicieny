@@ -1,0 +1,14 @@
+container {
+    text-align: center;
+    background-color: #efefef;
+}
+
+input {
+    width: 80%;
+    height: 30px;
+}
+
+button {
+    background-color: green;
+    color: #fff;
+}
